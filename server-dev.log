@@ -1,0 +1,8 @@
+
+> product-feedback-management@1.0.0 dev:server
+> npm run dev --workspace server
+
+
+> product-feedback-management-server@1.0.0 dev
+> nodemon src/server.js
+

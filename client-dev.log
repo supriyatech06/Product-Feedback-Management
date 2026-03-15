@@ -1,0 +1,8 @@
+
+> product-feedback-management@1.0.0 dev:client
+> npm run dev --workspace client
+
+
+> product-feedback-management-client@1.0.0 dev
+> vite
+
